@@ -18,7 +18,7 @@ A simple web application built with Laravel where users can create and view post
 
 1. Clone the repository
    ```bash
-git clone https://github.com/akramisha/laravel-post-system.git
+   git clone https://github.com/akramisha/laravel-post-system.git
 
 ## Navigate to the project folder:
 cd laravel-post-system
