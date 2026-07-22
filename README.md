@@ -109,5 +109,6 @@ This project is open-sourced under the [MIT License](LICENSE).
 <div align="center">
 
 Made with ❤️ using Laravel
+_Last updated: July 2026_
 
 </div>
